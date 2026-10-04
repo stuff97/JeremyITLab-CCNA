@@ -20,7 +20,7 @@ A repository for **"Jeremy's IT Lab"** Youtube channel supplementary material fo
 <summary>Linux & MacOS</summary>
 <br>
 
-Download `Anki` from `https://apps.ankiweb.net/` or use Ankiweb online `https://ankiweb.net/` straight from the web browser.
+Download `Anki` from https://apps.ankiweb.net/ or use Ankiweb online https://ankiweb.net straight from the web browser.
 <details>
 <summary>Archlinux</summary>
 <br>
@@ -32,7 +32,7 @@ Archlinux users can install `anki` package from the AUR:
 <details>
 <summary>Windows</summary>
 <br>
-Download `Anki` from `https://apps.ankiweb.net/` or use Ankiweb online `https://ankiweb.net/` straight from the web browser.
+Download `Anki` from https://apps.ankiweb.net/ or use Ankiweb online https://ankiweb.net straight from the web browser.
 </details>
 
 ## PacketTracer Labs
@@ -47,7 +47,7 @@ PacketTracer is not available on Android.
 <summary>Linux & MacOS</summary>
 <br>
 
-- Create free user account `https://www.netacad.com/courses/packet-tracer`
+- Create free user account https://www.netacad.com/courses/packet-tracer
 - Download Packetracer
 <details>
 <summary>Archlinux</summary>
@@ -59,7 +59,7 @@ Archlinux users can install `packettracer` package from the AUR:
 
 <details>
 <summary>Windows</summary>
-Create free user account `https://www.netacad.com/courses/packet-tracer`
+Create free user account https://www.netacad.com/courses/packet-tracer
 Download Packetracer
 </details>
 
